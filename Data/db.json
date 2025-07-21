@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "fullname": "prabh",
+      "email": "mehraprabh99@gmail.com",
+      "password": "prabh@2006",
+      "id": 1
+    },
+    {
+      "fullname": "prabh",
+      "email": "mehraprabh99@gmail.com",
+      "password": "mehra",
+      "id": 2
+    },
+    {
+      "fullname": "mehra",
+      "email": "mehraprabh@gmail.com",
+      "password": "prabh",
+      "id": 3
+    },
+    {
+      "fullname": "react",
+      "email": "mehraprabh@gmail.com",
+      "password": "react",
+      "id": 4
+    },
+    {
+      "fullname": "akhrar",
+      "email": "aktar",
+      "password": "abchksjh",
+      "id": 5
+    },
+    {
+      "fullname": "mehra",
+      "email": "mehraprabh11@gmail.com",
+      "password": "6280625417",
+      "id": 6
+    }
+  ],
+  "tasks": []
+}
